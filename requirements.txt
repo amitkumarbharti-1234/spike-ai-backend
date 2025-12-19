@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+google-analytics-data
+google-auth
+openai

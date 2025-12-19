@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+venv/
+
+# Secrets
+.env
+credentials.json
+
+# Logs
+*.log
